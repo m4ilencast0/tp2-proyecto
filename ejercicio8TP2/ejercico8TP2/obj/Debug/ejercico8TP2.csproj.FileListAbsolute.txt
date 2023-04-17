@@ -1,0 +1,8 @@
+D:\ejercico8TP2\ejercico8TP2\bin\Debug\ejercico8TP2.exe.config
+D:\ejercico8TP2\ejercico8TP2\bin\Debug\ejercico8TP2.exe
+D:\ejercico8TP2\ejercico8TP2\bin\Debug\ejercico8TP2.pdb
+D:\ejercico8TP2\ejercico8TP2\obj\Debug\ejercico8TP2.csproj.AssemblyReference.cache
+D:\ejercico8TP2\ejercico8TP2\obj\Debug\ejercico8TP2.csproj.SuggestedBindingRedirects.cache
+D:\ejercico8TP2\ejercico8TP2\obj\Debug\ejercico8TP2.csproj.CoreCompileInputs.cache
+D:\ejercico8TP2\ejercico8TP2\obj\Debug\ejercico8TP2.exe
+D:\ejercico8TP2\ejercico8TP2\obj\Debug\ejercico8TP2.pdb

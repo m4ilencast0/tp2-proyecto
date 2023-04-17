@@ -1,0 +1,8 @@
+D:\ejercico5TP2\ejercico5TP2\obj\Debug\ejercico5TP2.csproj.AssemblyReference.cache
+D:\ejercico5TP2\ejercico5TP2\obj\Debug\ejercico5TP2.csproj.SuggestedBindingRedirects.cache
+D:\ejercico5TP2\ejercico5TP2\obj\Debug\ejercico5TP2.csproj.CoreCompileInputs.cache
+D:\ejercico5TP2\ejercico5TP2\bin\Debug\ejercico5TP2.exe.config
+D:\ejercico5TP2\ejercico5TP2\bin\Debug\ejercico5TP2.exe
+D:\ejercico5TP2\ejercico5TP2\bin\Debug\ejercico5TP2.pdb
+D:\ejercico5TP2\ejercico5TP2\obj\Debug\ejercico5TP2.exe
+D:\ejercico5TP2\ejercico5TP2\obj\Debug\ejercico5TP2.pdb

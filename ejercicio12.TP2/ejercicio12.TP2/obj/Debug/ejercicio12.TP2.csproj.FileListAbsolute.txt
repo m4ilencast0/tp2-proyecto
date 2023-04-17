@@ -1,0 +1,8 @@
+D:\ejercicio12.TP2\ejercicio12.TP2\obj\Debug\ejercicio12.TP2.csproj.AssemblyReference.cache
+D:\ejercicio12.TP2\ejercicio12.TP2\obj\Debug\ejercicio12.TP2.csproj.SuggestedBindingRedirects.cache
+D:\ejercicio12.TP2\ejercicio12.TP2\obj\Debug\ejercicio12.TP2.csproj.CoreCompileInputs.cache
+D:\ejercicio12.TP2\ejercicio12.TP2\bin\Debug\ejercicio12.TP2.exe.config
+D:\ejercicio12.TP2\ejercicio12.TP2\bin\Debug\ejercicio12.TP2.exe
+D:\ejercicio12.TP2\ejercicio12.TP2\bin\Debug\ejercicio12.TP2.pdb
+D:\ejercicio12.TP2\ejercicio12.TP2\obj\Debug\ejercicio12.TP2.exe
+D:\ejercicio12.TP2\ejercicio12.TP2\obj\Debug\ejercicio12.TP2.pdb

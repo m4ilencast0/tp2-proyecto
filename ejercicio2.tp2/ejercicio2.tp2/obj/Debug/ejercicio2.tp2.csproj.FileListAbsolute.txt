@@ -1,0 +1,16 @@
+D:\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.csproj.AssemblyReference.cache
+D:\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.csproj.SuggestedBindingRedirects.cache
+D:\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.csproj.CoreCompileInputs.cache
+D:\ejercicio2.tp2\ejercicio2.tp2\bin\Debug\ejercicio2.tp2.exe.config
+D:\ejercicio2.tp2\ejercicio2.tp2\bin\Debug\ejercicio2.tp2.exe
+D:\ejercicio2.tp2\ejercicio2.tp2\bin\Debug\ejercicio2.tp2.pdb
+D:\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.exe
+D:\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.pdb
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\bin\Debug\ejercicio2.tp2.exe.config
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\bin\Debug\ejercicio2.tp2.exe
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\bin\Debug\ejercicio2.tp2.pdb
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.csproj.AssemblyReference.cache
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.csproj.SuggestedBindingRedirects.cache
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.csproj.CoreCompileInputs.cache
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.exe
+D:\trabajo-practico-N°2-Proyecto\ejercicio2.tp2\ejercicio2.tp2\obj\Debug\ejercicio2.tp2.pdb

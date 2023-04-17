@@ -1,0 +1,8 @@
+D:\ejercicio7TP2\ejercicio7TP2\obj\Debug\ejercicio7TP2.csproj.AssemblyReference.cache
+D:\ejercicio7TP2\ejercicio7TP2\obj\Debug\ejercicio7TP2.csproj.SuggestedBindingRedirects.cache
+D:\ejercicio7TP2\ejercicio7TP2\obj\Debug\ejercicio7TP2.csproj.CoreCompileInputs.cache
+D:\ejercicio7TP2\ejercicio7TP2\bin\Debug\ejercicio7TP2.exe.config
+D:\ejercicio7TP2\ejercicio7TP2\bin\Debug\ejercicio7TP2.exe
+D:\ejercicio7TP2\ejercicio7TP2\bin\Debug\ejercicio7TP2.pdb
+D:\ejercicio7TP2\ejercicio7TP2\obj\Debug\ejercicio7TP2.exe
+D:\ejercicio7TP2\ejercicio7TP2\obj\Debug\ejercicio7TP2.pdb

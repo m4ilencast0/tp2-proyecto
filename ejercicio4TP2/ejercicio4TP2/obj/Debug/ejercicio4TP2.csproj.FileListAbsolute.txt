@@ -1,0 +1,8 @@
+D:\ejercicio4TP2\ejercicio4TP2\bin\Debug\ejercicio4TP2.exe.config
+D:\ejercicio4TP2\ejercicio4TP2\bin\Debug\ejercicio4TP2.exe
+D:\ejercicio4TP2\ejercicio4TP2\bin\Debug\ejercicio4TP2.pdb
+D:\ejercicio4TP2\ejercicio4TP2\obj\Debug\ejercicio4TP2.csproj.AssemblyReference.cache
+D:\ejercicio4TP2\ejercicio4TP2\obj\Debug\ejercicio4TP2.csproj.SuggestedBindingRedirects.cache
+D:\ejercicio4TP2\ejercicio4TP2\obj\Debug\ejercicio4TP2.csproj.CoreCompileInputs.cache
+D:\ejercicio4TP2\ejercicio4TP2\obj\Debug\ejercicio4TP2.exe
+D:\ejercicio4TP2\ejercicio4TP2\obj\Debug\ejercicio4TP2.pdb
